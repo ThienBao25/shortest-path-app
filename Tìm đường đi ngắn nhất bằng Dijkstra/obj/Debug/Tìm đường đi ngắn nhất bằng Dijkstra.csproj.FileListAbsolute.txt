@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Tìm đường đi ngắn nhất bằng Dijkstra\Tìm đường đi ngắn nhất bằng Dijkstra\bin\Debug\Tìm đường đi ngắn nhất bằng Dijkstra.exe.config
+C:\Users\LENOVO\source\repos\Tìm đường đi ngắn nhất bằng Dijkstra\Tìm đường đi ngắn nhất bằng Dijkstra\bin\Debug\Tìm đường đi ngắn nhất bằng Dijkstra.exe
+C:\Users\LENOVO\source\repos\Tìm đường đi ngắn nhất bằng Dijkstra\Tìm đường đi ngắn nhất bằng Dijkstra\bin\Debug\Tìm đường đi ngắn nhất bằng Dijkstra.pdb
+C:\Users\LENOVO\source\repos\Tìm đường đi ngắn nhất bằng Dijkstra\Tìm đường đi ngắn nhất bằng Dijkstra\obj\Debug\Tìm đường đi ngắn nhất bằng Dijkstra.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Tìm đường đi ngắn nhất bằng Dijkstra\Tìm đường đi ngắn nhất bằng Dijkstra\obj\Debug\Tìm_đường_đi_ngắn_nhất_bằng_Dijkstra.Form1.resources
+C:\Users\LENOVO\source\repos\Tìm đường đi ngắn nhất bằng Dijkstra\Tìm đường đi ngắn nhất bằng Dijkstra\obj\Debug\Tìm_đường_đi_ngắn_nhất_bằng_Dijkstra.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Tìm đường đi ngắn nhất bằng Dijkstra\Tìm đường đi ngắn nhất bằng Dijkstra\obj\Debug\Tìm đường đi ngắn nhất bằng Dijkstra.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Tìm đường đi ngắn nhất bằng Dijkstra\Tìm đường đi ngắn nhất bằng Dijkstra\obj\Debug\Tìm đường đi ngắn nhất bằng Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Tìm đường đi ngắn nhất bằng Dijkstra\Tìm đường đi ngắn nhất bằng Dijkstra\obj\Debug\Tìm đường đi ngắn nhất bằng Dijkstra.exe
+C:\Users\LENOVO\source\repos\Tìm đường đi ngắn nhất bằng Dijkstra\Tìm đường đi ngắn nhất bằng Dijkstra\obj\Debug\Tìm đường đi ngắn nhất bằng Dijkstra.pdb
