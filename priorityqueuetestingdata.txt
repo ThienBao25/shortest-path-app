@@ -1,0 +1,1456 @@
+Nhap so dinh: 100
+Do thi thua (1) hay day (2)? 1
+
+========== LAN CHAY 1 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 144.00
+Thoi gian: 1.59 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 144.00
+Thoi gian: 0.87 ms
+Bo nho uoc tinh: 1.22 KB
+
+=== Array Queue ===
+Ket qua: 144.00
+Thoi gian: 4.81 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 144.00
+Thoi gian: 3.39 ms
+Bo nho uoc tinh: 468.76 KB
+
+========== LAN CHAY 2 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 144.00
+Thoi gian: 0.09 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 1.22 KB
+
+=== Array Queue ===
+Ket qua: 144.00
+Thoi gian: 0.06 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 144.00
+Thoi gian: 0.59 ms
+Bo nho uoc tinh: 468.76 KB
+
+========== LAN CHAY 3 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 144.00
+Thoi gian: 0.05 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 1.22 KB
+
+=== Array Queue ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 144.00
+Thoi gian: 0.66 ms
+Bo nho uoc tinh: 468.76 KB
+
+========== LAN CHAY 4 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 1.22 KB
+
+=== Array Queue ===
+Ket qua: 144.00
+Thoi gian: 0.05 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 144.00
+Thoi gian: 0.64 ms
+Bo nho uoc tinh: 468.76 KB
+
+========== LAN CHAY 5 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 144.00
+Thoi gian: 0.03 ms
+Bo nho uoc tinh: 1.22 KB
+
+=== Array Queue ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 144.00
+Thoi gian: 0.65 ms
+Bo nho uoc tinh: 468.76 KB
+
+========== LAN CHAY 6 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 1.22 KB
+
+=== Array Queue ===
+Ket qua: 144.00
+Thoi gian: 0.05 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 144.00
+Thoi gian: 0.57 ms
+Bo nho uoc tinh: 468.76 KB
+
+========== LAN CHAY 7 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 144.00
+Thoi gian: 0.03 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 144.00
+Thoi gian: 0.03 ms
+Bo nho uoc tinh: 1.22 KB
+
+=== Array Queue ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 144.00
+Thoi gian: 0.51 ms
+Bo nho uoc tinh: 468.76 KB
+
+========== LAN CHAY 8 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 1.22 KB
+
+=== Array Queue ===
+Ket qua: 144.00
+Thoi gian: 0.05 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 144.00
+Thoi gian: 0.55 ms
+Bo nho uoc tinh: 468.76 KB
+
+========== LAN CHAY 9 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 144.00
+Thoi gian: 0.03 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 1.22 KB
+
+=== Array Queue ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 144.00
+Thoi gian: 0.57 ms
+Bo nho uoc tinh: 468.76 KB
+
+========== LAN CHAY 10 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 1.22 KB
+
+=== Array Queue ===
+Ket qua: 144.00
+Thoi gian: 0.04 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 144.00
+Thoi gian: 0.58 ms
+
+Nhap so dinh: 400
+Do thi thua (1) hay day (2)? 1
+
+========== LAN CHAY 1 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 982.00
+Thoi gian: 1.70 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 982.00
+Thoi gian: 1.05 ms
+Bo nho uoc tinh: 1.50 KB
+
+=== Array Queue ===
+Ket qua: 982.00
+Thoi gian: 0.89 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 982.00
+Thoi gian: 3.24 ms
+Bo nho uoc tinh: 703.13 KB
+
+========== LAN CHAY 2 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 982.00
+Thoi gian: 0.13 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 982.00
+Thoi gian: 0.17 ms
+Bo nho uoc tinh: 1.50 KB
+
+=== Array Queue ===
+Ket qua: 982.00
+Thoi gian: 0.21 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 982.00
+Thoi gian: 1.26 ms
+Bo nho uoc tinh: 703.13 KB
+
+========== LAN CHAY 3 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 982.00
+Thoi gian: 0.15 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 982.00
+Thoi gian: 0.19 ms
+Bo nho uoc tinh: 1.50 KB
+
+=== Array Queue ===
+Ket qua: 982.00
+Thoi gian: 0.15 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 982.00
+Thoi gian: 1.02 ms
+Bo nho uoc tinh: 703.13 KB
+
+========== LAN CHAY 4 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 982.00
+Thoi gian: 0.16 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 982.00
+Thoi gian: 0.20 ms
+Bo nho uoc tinh: 1.50 KB
+
+=== Array Queue ===
+Ket qua: 982.00
+Thoi gian: 0.12 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 982.00
+Thoi gian: 1.04 ms
+Bo nho uoc tinh: 703.13 KB
+
+========== LAN CHAY 5 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 982.00
+Thoi gian: 0.13 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 982.00
+Thoi gian: 0.17 ms
+Bo nho uoc tinh: 1.50 KB
+
+=== Array Queue ===
+Ket qua: 982.00
+Thoi gian: 0.11 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 982.00
+Thoi gian: 1.23 ms
+Bo nho uoc tinh: 703.13 KB
+
+========== LAN CHAY 6 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 982.00
+Thoi gian: 0.17 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 982.00
+Thoi gian: 0.16 ms
+Bo nho uoc tinh: 1.50 KB
+
+=== Array Queue ===
+Ket qua: 982.00
+Thoi gian: 0.20 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 982.00
+Thoi gian: 1.37 ms
+Bo nho uoc tinh: 703.13 KB
+
+========== LAN CHAY 7 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 982.00
+Thoi gian: 0.18 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 982.00
+Thoi gian: 0.16 ms
+Bo nho uoc tinh: 1.50 KB
+
+=== Array Queue ===
+Ket qua: 982.00
+Thoi gian: 0.23 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 982.00
+Thoi gian: 0.96 ms
+Bo nho uoc tinh: 703.13 KB
+
+========== LAN CHAY 8 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 982.00
+Thoi gian: 0.12 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 982.00
+Thoi gian: 0.16 ms
+Bo nho uoc tinh: 1.50 KB
+
+=== Array Queue ===
+Ket qua: 982.00
+Thoi gian: 0.15 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 982.00
+Thoi gian: 0.88 ms
+Bo nho uoc tinh: 703.13 KB
+
+========== LAN CHAY 9 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 982.00
+Thoi gian: 0.18 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 982.00
+Thoi gian: 0.14 ms
+Bo nho uoc tinh: 1.50 KB
+
+=== Array Queue ===
+Ket qua: 982.00
+Thoi gian: 0.22 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 982.00
+Thoi gian: 3.93 ms
+Bo nho uoc tinh: 703.13 KB
+
+========== LAN CHAY 10 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 982.00
+Thoi gian: 0.15 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 982.00
+Thoi gian: 0.18 ms
+Bo nho uoc tinh: 1.50 KB
+
+=== Array Queue ===
+Ket qua: 982.00
+Thoi gian: 0.35 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 982.00
+Thoi gian: 1.33 ms
+Bo nho uoc tinh: 703.13 KB
+
+Nhap so dinh: 1000
+Do thi thua (1) hay day (2)? 1
+
+========== LAN CHAY 1 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 512.00
+Thoi gian: 3.00 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 512.00
+Thoi gian: 1.86 ms
+Bo nho uoc tinh: 8.86 KB
+
+=== Array Queue ===
+Ket qua: 512.00
+Thoi gian: 1.27 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 512.00
+Thoi gian: 2.83 ms
+Bo nho uoc tinh: 1171.88 KB
+
+========== LAN CHAY 2 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 512.00
+Thoi gian: 0.26 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 512.00
+Thoi gian: 0.91 ms
+Bo nho uoc tinh: 8.86 KB
+
+=== Array Queue ===
+Ket qua: 512.00
+Thoi gian: 1.85 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 512.00
+Thoi gian: 1.47 ms
+Bo nho uoc tinh: 1171.88 KB
+
+========== LAN CHAY 3 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 512.00
+Thoi gian: 0.36 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 512.00
+Thoi gian: 0.67 ms
+Bo nho uoc tinh: 8.86 KB
+
+=== Array Queue ===
+Ket qua: 512.00
+Thoi gian: 0.84 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 512.00
+Thoi gian: 1.94 ms
+Bo nho uoc tinh: 1171.88 KB
+
+========== LAN CHAY 4 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 512.00
+Thoi gian: 0.26 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 512.00
+Thoi gian: 0.70 ms
+Bo nho uoc tinh: 8.86 KB
+
+=== Array Queue ===
+Ket qua: 512.00
+Thoi gian: 0.86 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 512.00
+Thoi gian: 1.42 ms
+Bo nho uoc tinh: 1171.88 KB
+
+========== LAN CHAY 5 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 512.00
+Thoi gian: 0.55 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 512.00
+Thoi gian: 0.82 ms
+Bo nho uoc tinh: 8.86 KB
+
+=== Array Queue ===
+Ket qua: 512.00
+Thoi gian: 0.98 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 512.00
+Thoi gian: 1.34 ms
+Bo nho uoc tinh: 1171.88 KB
+
+========== LAN CHAY 6 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 512.00
+Thoi gian: 0.47 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 512.00
+Thoi gian: 0.65 ms
+Bo nho uoc tinh: 8.86 KB
+
+=== Array Queue ===
+Ket qua: 512.00
+Thoi gian: 0.88 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 512.00
+Thoi gian: 1.02 ms
+Bo nho uoc tinh: 1171.88 KB
+
+========== LAN CHAY 7 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 512.00
+Thoi gian: 0.26 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 512.00
+Thoi gian: 0.67 ms
+Bo nho uoc tinh: 8.86 KB
+
+=== Array Queue ===
+Ket qua: 512.00
+Thoi gian: 1.55 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 512.00
+Thoi gian: 1.04 ms
+Bo nho uoc tinh: 1171.88 KB
+
+========== LAN CHAY 8 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 512.00
+Thoi gian: 0.33 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 512.00
+Thoi gian: 0.87 ms
+Bo nho uoc tinh: 8.86 KB
+
+=== Array Queue ===
+Ket qua: 512.00
+Thoi gian: 1.28 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 512.00
+Thoi gian: 3.91 ms
+Bo nho uoc tinh: 1171.88 KB
+
+========== LAN CHAY 9 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 512.00
+Thoi gian: 0.29 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 512.00
+Thoi gian: 0.70 ms
+Bo nho uoc tinh: 8.86 KB
+
+=== Array Queue ===
+Ket qua: 512.00
+Thoi gian: 1.04 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 512.00
+Thoi gian: 1.73 ms
+Bo nho uoc tinh: 1171.88 KB
+
+========== LAN CHAY 10 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 512.00
+Thoi gian: 0.46 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 512.00
+Thoi gian: 1.02 ms
+Bo nho uoc tinh: 8.86 KB
+
+=== Array Queue ===
+Ket qua: 512.00
+Thoi gian: 1.25 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 512.00
+Thoi gian: 1.77 ms
+Bo nho uoc tinh: 1171.88 KB
+
+Nhap so dinh: 5000
+Do thi thua (1) hay day (2)? 1
+
+========== LAN CHAY 1 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 584.00
+Thoi gian: 2.27 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 584.00
+Thoi gian: 22.18 ms
+Bo nho uoc tinh: 38.30 KB
+
+=== Array Queue ===
+Ket qua: 584.00
+Thoi gian: 25.65 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 584.00
+Thoi gian: 7.29 ms
+Bo nho uoc tinh: 4296.88 KB
+
+========== LAN CHAY 2 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 584.00
+Thoi gian: 1.84 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 584.00
+Thoi gian: 21.32 ms
+Bo nho uoc tinh: 38.30 KB
+
+=== Array Queue ===
+Ket qua: 584.00
+Thoi gian: 20.28 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 584.00
+Thoi gian: 6.87 ms
+Bo nho uoc tinh: 4296.88 KB
+
+========== LAN CHAY 3 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 584.00
+Thoi gian: 3.67 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 584.00
+Thoi gian: 38.21 ms
+Bo nho uoc tinh: 38.30 KB
+
+=== Array Queue ===
+Ket qua: 584.00
+Thoi gian: 22.17 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 584.00
+Thoi gian: 4.37 ms
+Bo nho uoc tinh: 4296.88 KB
+
+========== LAN CHAY 4 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 584.00
+Thoi gian: 2.02 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 584.00
+Thoi gian: 26.64 ms
+Bo nho uoc tinh: 38.30 KB
+
+=== Array Queue ===
+Ket qua: 584.00
+Thoi gian: 17.20 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 584.00
+Thoi gian: 3.58 ms
+Bo nho uoc tinh: 4296.88 KB
+
+========== LAN CHAY 5 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 584.00
+Thoi gian: 2.42 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 584.00
+Thoi gian: 27.43 ms
+Bo nho uoc tinh: 38.30 KB
+
+=== Array Queue ===
+Ket qua: 584.00
+Thoi gian: 21.51 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 584.00
+Thoi gian: 4.82 ms
+Bo nho uoc tinh: 4296.88 KB
+
+========== LAN CHAY 6 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 584.00
+Thoi gian: 1.63 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 584.00
+Thoi gian: 18.49 ms
+Bo nho uoc tinh: 38.30 KB
+
+=== Array Queue ===
+Ket qua: 584.00
+Thoi gian: 19.22 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 584.00
+Thoi gian: 8.67 ms
+Bo nho uoc tinh: 4296.88 KB
+
+========== LAN CHAY 7 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 584.00
+Thoi gian: 1.68 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 584.00
+Thoi gian: 49.75 ms
+Bo nho uoc tinh: 38.30 KB
+
+=== Array Queue ===
+Ket qua: 584.00
+Thoi gian: 17.06 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 584.00
+Thoi gian: 4.31 ms
+Bo nho uoc tinh: 4296.88 KB
+
+========== LAN CHAY 8 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 584.00
+Thoi gian: 1.63 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 584.00
+Thoi gian: 20.16 ms
+Bo nho uoc tinh: 38.30 KB
+
+=== Array Queue ===
+Ket qua: 584.00
+Thoi gian: 24.07 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 584.00
+Thoi gian: 4.70 ms
+Bo nho uoc tinh: 4296.88 KB
+
+========== LAN CHAY 9 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 584.00
+Thoi gian: 1.77 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 584.00
+Thoi gian: 18.42 ms
+Bo nho uoc tinh: 38.30 KB
+
+=== Array Queue ===
+Ket qua: 584.00
+Thoi gian: 18.42 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 584.00
+Thoi gian: 4.80 ms
+Bo nho uoc tinh: 4296.88 KB
+
+========== LAN CHAY 10 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 584.00
+Thoi gian: 1.79 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 584.00
+Thoi gian: 21.60 ms
+Bo nho uoc tinh: 38.30 KB
+
+=== Array Queue ===
+Ket qua: 584.00
+Thoi gian: 19.24 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 584.00
+Thoi gian: 4.48 ms
+Bo nho uoc tinh: 4296.88 KB
+
+Nhap so dinh: 10000
+Do thi thua (1) hay day (2)? 1
+
+========== LAN CHAY 1 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 430.00
+Thoi gian: 7.86 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 430.00
+Thoi gian: 103.99 ms
+Bo nho uoc tinh: 68.44 KB
+
+=== Array Queue ===
+Ket qua: 430.00
+Thoi gian: 86.38 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 430.00
+Thoi gian: 17.74 ms
+Bo nho uoc tinh: 8203.13 KB
+
+========== LAN CHAY 2 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 430.00
+Thoi gian: 4.83 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 430.00
+Thoi gian: 79.39 ms
+Bo nho uoc tinh: 68.44 KB
+
+=== Array Queue ===
+Ket qua: 430.00
+Thoi gian: 61.84 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 430.00
+Thoi gian: 9.52 ms
+Bo nho uoc tinh: 8203.13 KB
+
+========== LAN CHAY 3 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 430.00
+Thoi gian: 7.48 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 430.00
+Thoi gian: 88.75 ms
+Bo nho uoc tinh: 68.44 KB
+
+=== Array Queue ===
+Ket qua: 430.00
+Thoi gian: 65.92 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 430.00
+Thoi gian: 8.50 ms
+Bo nho uoc tinh: 8203.13 KB
+
+========== LAN CHAY 4 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 430.00
+Thoi gian: 3.61 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 430.00
+Thoi gian: 85.34 ms
+Bo nho uoc tinh: 68.44 KB
+
+=== Array Queue ===
+Ket qua: 430.00
+Thoi gian: 62.50 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 430.00
+Thoi gian: 14.89 ms
+Bo nho uoc tinh: 8203.13 KB
+
+========== LAN CHAY 5 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 430.00
+Thoi gian: 3.86 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 430.00
+Thoi gian: 77.80 ms
+Bo nho uoc tinh: 68.44 KB
+
+=== Array Queue ===
+Ket qua: 430.00
+Thoi gian: 63.06 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 430.00
+Thoi gian: 13.59 ms
+Bo nho uoc tinh: 8203.13 KB
+
+========== LAN CHAY 6 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 430.00
+Thoi gian: 4.09 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 430.00
+Thoi gian: 93.29 ms
+Bo nho uoc tinh: 68.44 KB
+
+=== Array Queue ===
+Ket qua: 430.00
+Thoi gian: 68.34 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 430.00
+Thoi gian: 9.07 ms
+Bo nho uoc tinh: 8203.13 KB
+
+========== LAN CHAY 7 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 430.00
+Thoi gian: 5.47 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 430.00
+Thoi gian: 85.49 ms
+Bo nho uoc tinh: 68.44 KB
+
+=== Array Queue ===
+Ket qua: 430.00
+Thoi gian: 61.46 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 430.00
+Thoi gian: 12.97 ms
+Bo nho uoc tinh: 8203.13 KB
+
+========== LAN CHAY 8 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 430.00
+Thoi gian: 4.92 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 430.00
+Thoi gian: 79.85 ms
+Bo nho uoc tinh: 68.44 KB
+
+=== Array Queue ===
+Ket qua: 430.00
+Thoi gian: 78.83 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 430.00
+Thoi gian: 13.00 ms
+Bo nho uoc tinh: 8203.13 KB
+
+========== LAN CHAY 9 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 430.00
+Thoi gian: 3.62 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 430.00
+Thoi gian: 71.16 ms
+Bo nho uoc tinh: 68.44 KB
+
+=== Array Queue ===
+Ket qua: 430.00
+Thoi gian: 89.27 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 430.00
+Thoi gian: 7.39 ms
+Bo nho uoc tinh: 8203.13 KB
+
+========== LAN CHAY 10 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 430.00
+Thoi gian: 4.91 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 430.00
+Thoi gian: 89.55 ms
+Bo nho uoc tinh: 68.44 KB
+
+=== Array Queue ===
+Ket qua: 430.00
+Thoi gian: 76.28 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 430.00
+Thoi gian: 7.91 ms
+Bo nho uoc tinh: 8203.13 KB
+
+Nhap so dinh: 20000
+Do thi thua (1) hay day (2)? 1
+
+========== LAN CHAY 1 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 714.00
+Thoi gian: 13.75 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 714.00
+Thoi gian: 221.59 ms
+Bo nho uoc tinh: 76.08 KB
+
+=== Array Queue ===
+Ket qua: 714.00
+Thoi gian: 185.40 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 714.00
+Thoi gian: 32.09 ms
+Bo nho uoc tinh: 16015.63 KB
+
+========== LAN CHAY 2 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 714.00
+Thoi gian: 10.19 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 714.00
+Thoi gian: 216.80 ms
+Bo nho uoc tinh: 76.08 KB
+
+=== Array Queue ===
+Ket qua: 714.00
+Thoi gian: 186.51 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 714.00
+Thoi gian: 21.00 ms
+Bo nho uoc tinh: 16015.63 KB
+
+========== LAN CHAY 3 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 714.00
+Thoi gian: 17.08 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 714.00
+Thoi gian: 189.44 ms
+Bo nho uoc tinh: 76.08 KB
+
+=== Array Queue ===
+Ket qua: 714.00
+Thoi gian: 167.17 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 714.00
+Thoi gian: 18.78 ms
+Bo nho uoc tinh: 16015.63 KB
+
+========== LAN CHAY 4 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 714.00
+Thoi gian: 7.86 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 714.00
+Thoi gian: 176.36 ms
+Bo nho uoc tinh: 76.08 KB
+
+=== Array Queue ===
+Ket qua: 714.00
+Thoi gian: 184.51 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 714.00
+Thoi gian: 22.95 ms
+Bo nho uoc tinh: 16015.63 KB
+
+========== LAN CHAY 5 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 714.00
+Thoi gian: 11.51 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 714.00
+Thoi gian: 199.59 ms
+Bo nho uoc tinh: 76.08 KB
+
+=== Array Queue ===
+Ket qua: 714.00
+Thoi gian: 214.93 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 714.00
+Thoi gian: 19.25 ms
+Bo nho uoc tinh: 16015.63 KB
+
+========== LAN CHAY 6 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 714.00
+Thoi gian: 10.21 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 714.00
+Thoi gian: 235.94 ms
+Bo nho uoc tinh: 76.08 KB
+
+=== Array Queue ===
+Ket qua: 714.00
+Thoi gian: 165.26 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 714.00
+Thoi gian: 24.42 ms
+Bo nho uoc tinh: 16015.63 KB
+
+========== LAN CHAY 7 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 714.00
+Thoi gian: 12.74 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 714.00
+Thoi gian: 181.28 ms
+Bo nho uoc tinh: 76.08 KB
+
+=== Array Queue ===
+Ket qua: 714.00
+Thoi gian: 174.56 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 714.00
+Thoi gian: 41.35 ms
+Bo nho uoc tinh: 16015.63 KB
+
+========== LAN CHAY 8 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 714.00
+Thoi gian: 8.76 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 714.00
+Thoi gian: 204.93 ms
+Bo nho uoc tinh: 76.08 KB
+
+=== Array Queue ===
+Ket qua: 714.00
+Thoi gian: 198.73 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 714.00
+Thoi gian: 20.03 ms
+Bo nho uoc tinh: 16015.63 KB
+
+========== LAN CHAY 9 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 714.00
+Thoi gian: 7.46 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 714.00
+Thoi gian: 190.32 ms
+Bo nho uoc tinh: 76.08 KB
+
+=== Array Queue ===
+Ket qua: 714.00
+Thoi gian: 159.62 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 714.00
+Thoi gian: 16.63 ms
+Bo nho uoc tinh: 16015.63 KB
+
+========== LAN CHAY 10 ==========
+
+--- KET QUA SO SANH 4 HANG DOI UU TIEN ---
+
+=== Binary Heap ===
+Ket qua: 714.00
+Thoi gian: 7.89 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Double Linked List Queue ===
+Ket qua: 714.00
+Thoi gian: 237.99 ms
+Bo nho uoc tinh: 76.08 KB
+
+=== Array Queue ===
+Ket qua: 714.00
+Thoi gian: 163.29 ms
+Bo nho uoc tinh: 15625.00 KB
+
+=== Bucket Queue ===
+Ket qua: 714.00
+Thoi gian: 20.36 ms
+Bo nho uoc tinh: 16015.63 KB
