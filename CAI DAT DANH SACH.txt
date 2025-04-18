@@ -1,0 +1,1037 @@
+Nhap so dinh: 100
+Do thi thua (1) hay day (2)? 1
+
+========== LAN CHAY 1 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 144.00
+Thoi gian: 1.90 ms
+Bo nho uoc tinh: 1171.88 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 1.84 ms
+Bo nho uoc tinh: 4.78 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 0.63 ms
+Bo nho uoc tinh: 19.53 KB
+
+========== LAN CHAY 2 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 144.00
+Thoi gian: 0.12 ms
+Bo nho uoc tinh: 1171.88 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 10.42 ms
+Bo nho uoc tinh: 4.78 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 0.44 ms
+Bo nho uoc tinh: 19.53 KB
+
+========== LAN CHAY 3 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 144.00
+Thoi gian: 0.10 ms
+Bo nho uoc tinh: 1171.88 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 5.28 ms
+Bo nho uoc tinh: 4.78 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 1.24 ms
+Bo nho uoc tinh: 19.53 KB
+
+========== LAN CHAY 4 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 144.00
+Thoi gian: 0.18 ms
+Bo nho uoc tinh: 1171.88 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 0.13 ms
+Bo nho uoc tinh: 4.78 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 2.30 ms
+Bo nho uoc tinh: 19.53 KB
+
+========== LAN CHAY 5 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 144.00
+Thoi gian: 0.50 ms
+Bo nho uoc tinh: 1171.88 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 0.09 ms
+Bo nho uoc tinh: 4.78 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 5.83 ms
+Bo nho uoc tinh: 19.53 KB
+
+========== LAN CHAY 6 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 144.00
+Thoi gian: 1.02 ms
+Bo nho uoc tinh: 1171.88 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 0.17 ms
+Bo nho uoc tinh: 4.78 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 5.76 ms
+Bo nho uoc tinh: 19.53 KB
+
+========== LAN CHAY 7 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 144.00
+Thoi gian: 1.51 ms
+Bo nho uoc tinh: 1171.88 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 0.36 ms
+Bo nho uoc tinh: 4.78 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 0.12 ms
+Bo nho uoc tinh: 19.53 KB
+
+========== LAN CHAY 8 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 144.00
+Thoi gian: 0.07 ms
+Bo nho uoc tinh: 1171.88 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 2.98 ms
+Bo nho uoc tinh: 4.78 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 0.48 ms
+Bo nho uoc tinh: 19.53 KB
+
+========== LAN CHAY 9 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 144.00
+Thoi gian: 0.09 ms
+Bo nho uoc tinh: 1171.88 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 2.07 ms
+Bo nho uoc tinh: 4.78 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 0.75 ms
+Bo nho uoc tinh: 19.53 KB
+
+========== LAN CHAY 10 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 144.00
+Thoi gian: 0.05 ms
+Bo nho uoc tinh: 1171.88 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 2.00 ms
+Bo nho uoc tinh: 4.78 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 144.00
+Thoi gian: 0.20 ms
+Bo nho uoc tinh: 19.53 KB
+
+Nhap so dinh: 400
+Do thi thua (1) hay day (2)? 1
+
+========== LAN CHAY 1 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 982.00
+Thoi gian: 1.30 ms
+Bo nho uoc tinh: 4687.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 1.14 ms
+Bo nho uoc tinh: 19.73 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.38 ms
+Bo nho uoc tinh: 78.12 KB
+
+========== LAN CHAY 2 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 982.00
+Thoi gian: 2.34 ms
+Bo nho uoc tinh: 4687.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.49 ms
+Bo nho uoc tinh: 19.73 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.19 ms
+Bo nho uoc tinh: 78.12 KB
+
+========== LAN CHAY 3 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 982.00
+Thoi gian: 0.35 ms
+Bo nho uoc tinh: 4687.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.86 ms
+Bo nho uoc tinh: 19.73 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.52 ms
+Bo nho uoc tinh: 78.12 KB
+
+========== LAN CHAY 4 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 982.00
+Thoi gian: 0.46 ms
+Bo nho uoc tinh: 4687.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.30 ms
+Bo nho uoc tinh: 19.73 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.11 ms
+Bo nho uoc tinh: 78.12 KB
+
+========== LAN CHAY 5 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 982.00
+Thoi gian: 0.43 ms
+Bo nho uoc tinh: 4687.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.62 ms
+Bo nho uoc tinh: 19.73 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.16 ms
+Bo nho uoc tinh: 78.12 KB
+
+========== LAN CHAY 6 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 982.00
+Thoi gian: 0.48 ms
+Bo nho uoc tinh: 4687.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.36 ms
+Bo nho uoc tinh: 19.73 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.13 ms
+Bo nho uoc tinh: 78.12 KB
+
+========== LAN CHAY 7 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 982.00
+Thoi gian: 0.58 ms
+Bo nho uoc tinh: 4687.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.93 ms
+Bo nho uoc tinh: 19.73 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.27 ms
+Bo nho uoc tinh: 78.12 KB
+
+========== LAN CHAY 8 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 982.00
+Thoi gian: 0.50 ms
+Bo nho uoc tinh: 4687.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.36 ms
+Bo nho uoc tinh: 19.73 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.13 ms
+Bo nho uoc tinh: 78.12 KB
+
+========== LAN CHAY 9 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 982.00
+Thoi gian: 0.57 ms
+Bo nho uoc tinh: 4687.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.81 ms
+Bo nho uoc tinh: 19.73 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.21 ms
+Bo nho uoc tinh: 78.12 KB
+
+========== LAN CHAY 10 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 982.00
+Thoi gian: 0.65 ms
+Bo nho uoc tinh: 4687.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.37 ms
+Bo nho uoc tinh: 19.73 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 982.00
+Thoi gian: 0.16 ms
+Bo nho uoc tinh: 78.12 KB
+
+Nhap so dinh: 2000
+Do thi thua (1) hay day (2)? 1
+
+========== LAN CHAY 1 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 334.00
+Thoi gian: 3.15 ms
+Bo nho uoc tinh: 23437.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 2.32 ms
+Bo nho uoc tinh: 99.05 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 1.44 ms
+Bo nho uoc tinh: 390.62 KB
+
+========== LAN CHAY 2 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 334.00
+Thoi gian: 3.42 ms
+Bo nho uoc tinh: 23437.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 0.62 ms
+Bo nho uoc tinh: 99.05 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 0.50 ms
+Bo nho uoc tinh: 390.62 KB
+
+========== LAN CHAY 3 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 334.00
+Thoi gian: 0.56 ms
+Bo nho uoc tinh: 23437.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 0.81 ms
+Bo nho uoc tinh: 99.05 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 0.60 ms
+Bo nho uoc tinh: 390.62 KB
+
+========== LAN CHAY 4 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 334.00
+Thoi gian: 3.48 ms
+Bo nho uoc tinh: 23437.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 0.96 ms
+Bo nho uoc tinh: 99.05 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 1.04 ms
+Bo nho uoc tinh: 390.62 KB
+
+========== LAN CHAY 5 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 334.00
+Thoi gian: 1.54 ms
+Bo nho uoc tinh: 23437.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 1.84 ms
+Bo nho uoc tinh: 99.05 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 1.28 ms
+Bo nho uoc tinh: 390.62 KB
+
+========== LAN CHAY 6 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 334.00
+Thoi gian: 0.58 ms
+Bo nho uoc tinh: 23437.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 1.03 ms
+Bo nho uoc tinh: 99.05 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 0.69 ms
+Bo nho uoc tinh: 390.62 KB
+
+========== LAN CHAY 7 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 334.00
+Thoi gian: 2.66 ms
+Bo nho uoc tinh: 23437.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 0.85 ms
+Bo nho uoc tinh: 99.05 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 0.70 ms
+Bo nho uoc tinh: 390.62 KB
+
+========== LAN CHAY 8 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 334.00
+Thoi gian: 1.07 ms
+Bo nho uoc tinh: 23437.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 2.55 ms
+Bo nho uoc tinh: 99.05 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 1.12 ms
+Bo nho uoc tinh: 390.62 KB
+
+========== LAN CHAY 9 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 334.00
+Thoi gian: 4.13 ms
+Bo nho uoc tinh: 23437.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 1.34 ms
+Bo nho uoc tinh: 99.05 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 1.28 ms
+Bo nho uoc tinh: 390.62 KB
+
+========== LAN CHAY 10 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 334.00
+Thoi gian: 1.59 ms
+Bo nho uoc tinh: 23437.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 1.77 ms
+Bo nho uoc tinh: 99.05 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 334.00
+Thoi gian: 1.17 ms
+Bo nho uoc tinh: 390.62 KB
+
+Nhap so dinh: 5000
+Do thi thua (1) hay day (2)? 1
+
+========== LAN CHAY 1 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 584.00
+Thoi gian: 11.03 ms
+Bo nho uoc tinh: 58593.75 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 4.85 ms
+Bo nho uoc tinh: 245.86 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 4.36 ms
+Bo nho uoc tinh: 976.56 KB
+
+========== LAN CHAY 2 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 584.00
+Thoi gian: 2.56 ms
+Bo nho uoc tinh: 58593.75 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.22 ms
+Bo nho uoc tinh: 245.86 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 3.32 ms
+Bo nho uoc tinh: 976.56 KB
+
+========== LAN CHAY 3 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 584.00
+Thoi gian: 7.03 ms
+Bo nho uoc tinh: 58593.75 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 7.02 ms
+Bo nho uoc tinh: 245.86 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 3.98 ms
+Bo nho uoc tinh: 976.56 KB
+
+========== LAN CHAY 4 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 584.00
+Thoi gian: 2.51 ms
+Bo nho uoc tinh: 58593.75 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.81 ms
+Bo nho uoc tinh: 245.86 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.51 ms
+Bo nho uoc tinh: 976.56 KB
+
+========== LAN CHAY 5 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 584.00
+Thoi gian: 4.97 ms
+Bo nho uoc tinh: 58593.75 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 3.86 ms
+Bo nho uoc tinh: 245.86 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.67 ms
+Bo nho uoc tinh: 976.56 KB
+
+========== LAN CHAY 6 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 584.00
+Thoi gian: 7.14 ms
+Bo nho uoc tinh: 58593.75 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.57 ms
+Bo nho uoc tinh: 245.86 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.26 ms
+Bo nho uoc tinh: 976.56 KB
+
+========== LAN CHAY 7 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 584.00
+Thoi gian: 2.10 ms
+Bo nho uoc tinh: 58593.75 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.35 ms
+Bo nho uoc tinh: 245.86 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.07 ms
+Bo nho uoc tinh: 976.56 KB
+
+========== LAN CHAY 8 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 584.00
+Thoi gian: 5.26 ms
+Bo nho uoc tinh: 58593.75 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.78 ms
+Bo nho uoc tinh: 245.86 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.60 ms
+Bo nho uoc tinh: 976.56 KB
+
+========== LAN CHAY 9 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 584.00
+Thoi gian: 5.86 ms
+Bo nho uoc tinh: 58593.75 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.26 ms
+Bo nho uoc tinh: 245.86 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.69 ms
+Bo nho uoc tinh: 976.56 KB
+
+========== LAN CHAY 10 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 584.00
+Thoi gian: 2.23 ms
+Bo nho uoc tinh: 58593.75 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 2.45 ms
+Bo nho uoc tinh: 245.86 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 584.00
+Thoi gian: 1.73 ms
+Bo nho uoc tinh: 976.56 KB
+
+Nhap so dinh: 10000
+Do thi thua (1) hay day (2)? 1
+
+========== LAN CHAY 1 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 430.00
+Thoi gian: 5.56 ms
+Bo nho uoc tinh: 117187.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 4.50 ms
+Bo nho uoc tinh: 492.19 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 4.63 ms
+Bo nho uoc tinh: 1953.12 KB
+
+========== LAN CHAY 2 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 430.00
+Thoi gian: 3.38 ms
+Bo nho uoc tinh: 117187.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 3.35 ms
+Bo nho uoc tinh: 492.19 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 3.28 ms
+Bo nho uoc tinh: 1953.12 KB
+
+========== LAN CHAY 3 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 430.00
+Thoi gian: 3.96 ms
+Bo nho uoc tinh: 117187.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 3.86 ms
+Bo nho uoc tinh: 492.19 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 8.40 ms
+Bo nho uoc tinh: 1953.12 KB
+
+========== LAN CHAY 4 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 430.00
+Thoi gian: 7.26 ms
+Bo nho uoc tinh: 117187.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 4.73 ms
+Bo nho uoc tinh: 492.19 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 6.32 ms
+Bo nho uoc tinh: 1953.12 KB
+
+========== LAN CHAY 5 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 430.00
+Thoi gian: 4.22 ms
+Bo nho uoc tinh: 117187.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 5.75 ms
+Bo nho uoc tinh: 492.19 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 4.43 ms
+Bo nho uoc tinh: 1953.12 KB
+
+========== LAN CHAY 6 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 430.00
+Thoi gian: 4.74 ms
+Bo nho uoc tinh: 117187.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 3.68 ms
+Bo nho uoc tinh: 492.19 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 3.60 ms
+Bo nho uoc tinh: 1953.12 KB
+
+========== LAN CHAY 7 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 430.00
+Thoi gian: 8.92 ms
+Bo nho uoc tinh: 117187.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 3.46 ms
+Bo nho uoc tinh: 492.19 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 4.21 ms
+Bo nho uoc tinh: 1953.12 KB
+
+========== LAN CHAY 8 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 430.00
+Thoi gian: 5.45 ms
+Bo nho uoc tinh: 117187.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 5.16 ms
+Bo nho uoc tinh: 492.19 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 4.74 ms
+Bo nho uoc tinh: 1953.12 KB
+
+========== LAN CHAY 9 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 430.00
+Thoi gian: 6.32 ms
+Bo nho uoc tinh: 117187.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 4.10 ms
+Bo nho uoc tinh: 492.19 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 4.23 ms
+Bo nho uoc tinh: 1953.12 KB
+
+========== LAN CHAY 10 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 430.00
+Thoi gian: 3.48 ms
+Bo nho uoc tinh: 117187.50 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 4.67 ms
+Bo nho uoc tinh: 492.19 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 430.00
+Thoi gian: 3.40 ms
+Bo nho uoc tinh: 1953.12 KB
+
+Nhap so dinh: 20000
+Do thi thua (1) hay day (2)? 1
+
+========== LAN CHAY 1 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 714.00
+Thoi gian: 10.99 ms
+Bo nho uoc tinh: 234375.00 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 9.23 ms
+Bo nho uoc tinh: 985.31 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 10.71 ms
+Bo nho uoc tinh: 3906.25 KB
+
+========== LAN CHAY 2 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 714.00
+Thoi gian: 13.55 ms
+Bo nho uoc tinh: 234375.00 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 13.37 ms
+Bo nho uoc tinh: 985.31 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 16.36 ms
+Bo nho uoc tinh: 3906.25 KB
+
+========== LAN CHAY 3 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 714.00
+Thoi gian: 15.46 ms
+Bo nho uoc tinh: 234375.00 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 8.22 ms
+Bo nho uoc tinh: 985.31 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 7.94 ms
+Bo nho uoc tinh: 3906.25 KB
+
+========== LAN CHAY 4 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 714.00
+Thoi gian: 10.07 ms
+Bo nho uoc tinh: 234375.00 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 11.29 ms
+Bo nho uoc tinh: 985.31 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 9.73 ms
+Bo nho uoc tinh: 3906.25 KB
+
+========== LAN CHAY 5 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 714.00
+Thoi gian: 11.64 ms
+Bo nho uoc tinh: 234375.00 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 42.25 ms
+Bo nho uoc tinh: 985.31 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 8.88 ms
+Bo nho uoc tinh: 3906.25 KB
+
+========== LAN CHAY 6 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 714.00
+Thoi gian: 9.06 ms
+Bo nho uoc tinh: 234375.00 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 9.85 ms
+Bo nho uoc tinh: 985.31 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 9.11 ms
+Bo nho uoc tinh: 3906.25 KB
+
+========== LAN CHAY 7 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 714.00
+Thoi gian: 13.04 ms
+Bo nho uoc tinh: 234375.00 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 8.06 ms
+Bo nho uoc tinh: 985.31 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 8.48 ms
+Bo nho uoc tinh: 3906.25 KB
+
+========== LAN CHAY 8 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 714.00
+Thoi gian: 15.23 ms
+Bo nho uoc tinh: 234375.00 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 9.99 ms
+Bo nho uoc tinh: 985.31 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 8.85 ms
+Bo nho uoc tinh: 3906.25 KB
+
+========== LAN CHAY 9 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 714.00
+Thoi gian: 10.72 ms
+Bo nho uoc tinh: 234375.00 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 17.58 ms
+Bo nho uoc tinh: 985.31 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 8.87 ms
+Bo nho uoc tinh: 3906.25 KB
+
+========== LAN CHAY 10 ==========
+
+=== Mang Co Dinh ===
+Ket qua: 714.00
+Thoi gian: 11.21 ms
+Bo nho uoc tinh: 234375.00 KB
+
+=== ArrayList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 11.79 ms
+Bo nho uoc tinh: 985.31 KB
+
+=== LinkedList Tu Cai ===
+Ket qua: 714.00
+Thoi gian: 9.91 ms
+Bo nho uoc tinh: 3906.25 KB

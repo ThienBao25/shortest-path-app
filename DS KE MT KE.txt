@@ -1,0 +1,1632 @@
+Nhap so dinh: 100
+Do thi thua (1) hay day (2)? 1
+
+====== LAN CHAY 1 ======
+- So dinh: 100, So canh: 105
+
+[DANH SACH KE]
+  Ket qua: 110.00
+  Thoi gian: 4.57 ms
+  Bo nho uoc tinh: 4.88 KB
+
+[MA TRAN KE]
+  Ket qua: 110.00
+  Thoi gian: 39.29 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 110.00
+  Thoi gian: 315.67 ms
+  Bo nho uoc tinh: 83.01 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 110.00
+  Thoi gian: 300.54 ms
+  Bo nho uoc tinh: 83.01 KB
+
+====== LAN CHAY 2 ======
+- So dinh: 100, So canh: 105
+
+[DANH SACH KE]
+  Ket qua: 110.00
+  Thoi gian: 64.53 ms
+  Bo nho uoc tinh: 4.88 KB
+
+[MA TRAN KE]
+  Ket qua: 110.00
+  Thoi gian: 61.53 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 110.00
+  Thoi gian: 57.68 ms
+  Bo nho uoc tinh: 83.01 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 110.00
+  Thoi gian: 52.03 ms
+  Bo nho uoc tinh: 83.01 KB
+
+====== LAN CHAY 3 ======
+- So dinh: 100, So canh: 105
+
+[DANH SACH KE]
+  Ket qua: 110.00
+  Thoi gian: 149.27 ms
+  Bo nho uoc tinh: 4.88 KB
+
+[MA TRAN KE]
+  Ket qua: 110.00
+  Thoi gian: 95.56 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 110.00
+  Thoi gian: 94.51 ms
+  Bo nho uoc tinh: 83.01 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 110.00
+  Thoi gian: 77.38 ms
+  Bo nho uoc tinh: 83.01 KB
+
+====== LAN CHAY 4 ======
+- So dinh: 100, So canh: 105
+
+[DANH SACH KE]
+  Ket qua: 110.00
+  Thoi gian: 87.82 ms
+  Bo nho uoc tinh: 4.88 KB
+
+[MA TRAN KE]
+  Ket qua: 110.00
+  Thoi gian: 69.36 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 110.00
+  Thoi gian: 72.54 ms
+  Bo nho uoc tinh: 83.01 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 110.00
+  Thoi gian: 66.05 ms
+  Bo nho uoc tinh: 83.01 KB
+
+====== LAN CHAY 5 ======
+- So dinh: 100, So canh: 105
+
+[DANH SACH KE]
+  Ket qua: 110.00
+  Thoi gian: 2.68 ms
+  Bo nho uoc tinh: 4.88 KB
+
+[MA TRAN KE]
+  Ket qua: 110.00
+  Thoi gian: 48.88 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 110.00
+  Thoi gian: 193.37 ms
+  Bo nho uoc tinh: 83.01 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 110.00
+  Thoi gian: 47.69 ms
+  Bo nho uoc tinh: 83.01 KB
+
+====== LAN CHAY 6 ======
+- So dinh: 100, So canh: 105
+
+[DANH SACH KE]
+  Ket qua: 110.00
+  Thoi gian: 46.90 ms
+  Bo nho uoc tinh: 4.88 KB
+
+[MA TRAN KE]
+  Ket qua: 110.00
+  Thoi gian: 57.33 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 110.00
+  Thoi gian: 104.22 ms
+  Bo nho uoc tinh: 83.01 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 110.00
+  Thoi gian: 142.95 ms
+  Bo nho uoc tinh: 83.01 KB
+
+====== LAN CHAY 7 ======
+- So dinh: 100, So canh: 105
+
+[DANH SACH KE]
+  Ket qua: 110.00
+  Thoi gian: 155.23 ms
+  Bo nho uoc tinh: 4.88 KB
+
+[MA TRAN KE]
+  Ket qua: 110.00
+  Thoi gian: 55.56 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 110.00
+  Thoi gian: 52.92 ms
+  Bo nho uoc tinh: 83.01 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 110.00
+  Thoi gian: 55.04 ms
+  Bo nho uoc tinh: 83.01 KB
+
+====== LAN CHAY 8 ======
+- So dinh: 100, So canh: 105
+
+[DANH SACH KE]
+  Ket qua: 110.00
+  Thoi gian: 58.47 ms
+  Bo nho uoc tinh: 4.88 KB
+
+[MA TRAN KE]
+  Ket qua: 110.00
+  Thoi gian: 54.82 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 110.00
+  Thoi gian: 48.30 ms
+  Bo nho uoc tinh: 83.01 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 110.00
+  Thoi gian: 47.60 ms
+  Bo nho uoc tinh: 83.01 KB
+
+====== LAN CHAY 9 ======
+- So dinh: 100, So canh: 105
+
+[DANH SACH KE]
+  Ket qua: 110.00
+  Thoi gian: 48.79 ms
+  Bo nho uoc tinh: 4.88 KB
+
+[MA TRAN KE]
+  Ket qua: 110.00
+  Thoi gian: 61.44 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 110.00
+  Thoi gian: 73.96 ms
+  Bo nho uoc tinh: 83.01 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 110.00
+  Thoi gian: 159.47 ms
+  Bo nho uoc tinh: 83.01 KB
+
+====== LAN CHAY 10 ======
+- So dinh: 100, So canh: 105
+
+[DANH SACH KE]
+  Ket qua: 110.00
+  Thoi gian: 99.70 ms
+  Bo nho uoc tinh: 4.88 KB
+
+[MA TRAN KE]
+  Ket qua: 110.00
+  Thoi gian: 77.24 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 110.00
+  Thoi gian: 76.19 ms
+  Bo nho uoc tinh: 83.01 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 110.00
+  Thoi gian: 74.42 ms
+  Bo nho uoc tinh: 83.01 KB
+
+Nhap so dinh: 100
+Do thi thua (1) hay day (2)? 2
+
+====== LAN CHAY 1 ======
+- So dinh: 100, So canh: 3712
+
+[DANH SACH KE]
+  Ket qua: 8.00
+  Thoi gian: 5.12 ms
+  Bo nho uoc tinh: 145.78 KB
+
+[MA TRAN KE]
+  Ket qua: 8.00
+  Thoi gian: 42.52 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 8.00
+  Thoi gian: 292.74 ms
+  Bo nho uoc tinh: 223.91 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 8.00
+  Thoi gian: 341.77 ms
+  Bo nho uoc tinh: 223.91 KB
+
+====== LAN CHAY 2 ======
+- So dinh: 100, So canh: 3712
+
+[DANH SACH KE]
+  Ket qua: 8.00
+  Thoi gian: 92.27 ms
+  Bo nho uoc tinh: 145.78 KB
+
+[MA TRAN KE]
+  Ket qua: 8.00
+  Thoi gian: 72.95 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 8.00
+  Thoi gian: 70.99 ms
+  Bo nho uoc tinh: 223.91 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 8.00
+  Thoi gian: 73.72 ms
+  Bo nho uoc tinh: 223.91 KB
+
+====== LAN CHAY 3 ======
+- So dinh: 100, So canh: 3712
+
+[DANH SACH KE]
+  Ket qua: 8.00
+  Thoi gian: 3.54 ms
+  Bo nho uoc tinh: 145.78 KB
+
+[MA TRAN KE]
+  Ket qua: 8.00
+  Thoi gian: 54.64 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 8.00
+  Thoi gian: 206.35 ms
+  Bo nho uoc tinh: 223.91 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 8.00
+  Thoi gian: 48.64 ms
+  Bo nho uoc tinh: 223.91 KB
+
+====== LAN CHAY 4 ======
+- So dinh: 100, So canh: 3712
+
+[DANH SACH KE]
+  Ket qua: 8.00
+  Thoi gian: 114.53 ms
+  Bo nho uoc tinh: 145.78 KB
+
+[MA TRAN KE]
+  Ket qua: 8.00
+  Thoi gian: 51.30 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 8.00
+  Thoi gian: 55.09 ms
+  Bo nho uoc tinh: 223.91 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 8.00
+  Thoi gian: 70.78 ms
+  Bo nho uoc tinh: 223.91 KB
+
+====== LAN CHAY 5 ======
+- So dinh: 100, So canh: 3712
+
+[DANH SACH KE]
+  Ket qua: 8.00
+  Thoi gian: 74.49 ms
+  Bo nho uoc tinh: 145.78 KB
+
+[MA TRAN KE]
+  Ket qua: 8.00
+  Thoi gian: 113.68 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 8.00
+  Thoi gian: 135.40 ms
+  Bo nho uoc tinh: 223.91 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 8.00
+  Thoi gian: 138.51 ms
+  Bo nho uoc tinh: 223.91 KB
+
+====== LAN CHAY 6 ======
+- So dinh: 100, So canh: 3712
+
+[DANH SACH KE]
+  Ket qua: 8.00
+  Thoi gian: 128.09 ms
+  Bo nho uoc tinh: 145.78 KB
+
+[MA TRAN KE]
+  Ket qua: 8.00
+  Thoi gian: 65.37 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 8.00
+  Thoi gian: 63.38 ms
+  Bo nho uoc tinh: 223.91 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 8.00
+  Thoi gian: 56.52 ms
+  Bo nho uoc tinh: 223.91 KB
+
+====== LAN CHAY 7 ======
+- So dinh: 100, So canh: 3712
+
+[DANH SACH KE]
+  Ket qua: 8.00
+  Thoi gian: 61.51 ms
+  Bo nho uoc tinh: 145.78 KB
+
+[MA TRAN KE]
+  Ket qua: 8.00
+  Thoi gian: 61.26 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 8.00
+  Thoi gian: 71.95 ms
+  Bo nho uoc tinh: 223.91 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 8.00
+  Thoi gian: 70.11 ms
+  Bo nho uoc tinh: 223.91 KB
+
+====== LAN CHAY 8 ======
+- So dinh: 100, So canh: 3712
+
+[DANH SACH KE]
+  Ket qua: 8.00
+  Thoi gian: 73.46 ms
+  Bo nho uoc tinh: 145.78 KB
+
+[MA TRAN KE]
+  Ket qua: 8.00
+  Thoi gian: 157.69 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 8.00
+  Thoi gian: 125.13 ms
+  Bo nho uoc tinh: 223.91 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 8.00
+  Thoi gian: 51.31 ms
+  Bo nho uoc tinh: 223.91 KB
+
+====== LAN CHAY 9 ======
+- So dinh: 100, So canh: 3712
+
+[DANH SACH KE]
+  Ket qua: 8.00
+  Thoi gian: 73.11 ms
+  Bo nho uoc tinh: 145.78 KB
+
+[MA TRAN KE]
+  Ket qua: 8.00
+  Thoi gian: 66.47 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 8.00
+  Thoi gian: 73.48 ms
+  Bo nho uoc tinh: 223.91 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 8.00
+  Thoi gian: 69.68 ms
+  Bo nho uoc tinh: 223.91 KB
+
+====== LAN CHAY 10 ======
+- So dinh: 100, So canh: 3712
+
+[DANH SACH KE]
+  Ket qua: 8.00
+  Thoi gian: 56.49 ms
+  Bo nho uoc tinh: 145.78 KB
+
+[MA TRAN KE]
+  Ket qua: 8.00
+  Thoi gian: 53.86 ms
+  Bo nho uoc tinh: 78.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 8.00
+  Thoi gian: 61.95 ms
+  Bo nho uoc tinh: 223.91 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 8.00
+  Thoi gian: 64.35 ms
+  Bo nho uoc tinh: 223.91 KB
+
+Nhap so dinh: 400
+Do thi thua (1) hay day (2)? 1
+
+====== LAN CHAY 1 ======
+- So dinh: 400, So canh: 405
+
+[DANH SACH KE]
+  Ket qua: 188.00
+  Thoi gian: 4.84 ms
+  Bo nho uoc tinh: 18.95 KB
+
+[MA TRAN KE]
+  Ket qua: 188.00
+  Thoi gian: 7.84 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 188.00
+  Thoi gian: 383.90 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 188.00
+  Thoi gian: 272.23 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+====== LAN CHAY 2 ======
+- So dinh: 400, So canh: 405
+
+[DANH SACH KE]
+  Ket qua: 188.00
+  Thoi gian: 297.08 ms
+  Bo nho uoc tinh: 18.95 KB
+
+[MA TRAN KE]
+  Ket qua: 188.00
+  Thoi gian: 55.57 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 188.00
+  Thoi gian: 3.63 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 188.00
+  Thoi gian: 3448.21 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+====== LAN CHAY 3 ======
+- So dinh: 400, So canh: 405
+
+[DANH SACH KE]
+  Ket qua: 188.00
+  Thoi gian: 527.23 ms
+  Bo nho uoc tinh: 18.95 KB
+
+[MA TRAN KE]
+  Ket qua: 188.00
+  Thoi gian: 76.94 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 188.00
+  Thoi gian: 3.24 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 188.00
+  Thoi gian: 3507.65 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+====== LAN CHAY 4 ======
+- So dinh: 400, So canh: 405
+
+[DANH SACH KE]
+  Ket qua: 188.00
+  Thoi gian: 686.39 ms
+  Bo nho uoc tinh: 18.95 KB
+
+[MA TRAN KE]
+  Ket qua: 188.00
+  Thoi gian: 79.52 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 188.00
+  Thoi gian: 4.88 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 188.00
+  Thoi gian: 3090.62 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+====== LAN CHAY 5 ======
+- So dinh: 400, So canh: 405
+
+[DANH SACH KE]
+  Ket qua: 188.00
+  Thoi gian: 509.21 ms
+  Bo nho uoc tinh: 18.95 KB
+
+[MA TRAN KE]
+  Ket qua: 188.00
+  Thoi gian: 75.68 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 188.00
+  Thoi gian: 469.66 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 188.00
+  Thoi gian: 616.93 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+====== LAN CHAY 6 ======
+- So dinh: 400, So canh: 405
+
+[DANH SACH KE]
+  Ket qua: 188.00
+  Thoi gian: 762.63 ms
+  Bo nho uoc tinh: 18.95 KB
+
+[MA TRAN KE]
+  Ket qua: 188.00
+  Thoi gian: 6.98 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 188.00
+  Thoi gian: 3.61 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 188.00
+  Thoi gian: 3184.11 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+====== LAN CHAY 7 ======
+- So dinh: 400, So canh: 405
+
+[DANH SACH KE]
+  Ket qua: 188.00
+  Thoi gian: 387.74 ms
+  Bo nho uoc tinh: 18.95 KB
+
+[MA TRAN KE]
+  Ket qua: 188.00
+  Thoi gian: 7.66 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 188.00
+  Thoi gian: 3.18 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 188.00
+  Thoi gian: 994.20 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+====== LAN CHAY 8 ======
+- So dinh: 400, So canh: 405
+
+[DANH SACH KE]
+  Ket qua: 188.00
+  Thoi gian: 418.14 ms
+  Bo nho uoc tinh: 18.95 KB
+
+[MA TRAN KE]
+  Ket qua: 188.00
+  Thoi gian: 315.06 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 188.00
+  Thoi gian: 407.08 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 188.00
+  Thoi gian: 482.61 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+====== LAN CHAY 9 ======
+- So dinh: 400, So canh: 405
+
+[DANH SACH KE]
+  Ket qua: 188.00
+  Thoi gian: 467.69 ms
+  Bo nho uoc tinh: 18.95 KB
+
+[MA TRAN KE]
+  Ket qua: 188.00
+  Thoi gian: 5.72 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 188.00
+  Thoi gian: 3.10 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 188.00
+  Thoi gian: 3.44 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+====== LAN CHAY 10 ======
+- So dinh: 400, So canh: 405
+
+[DANH SACH KE]
+  Ket qua: 188.00
+  Thoi gian: 3374.41 ms
+  Bo nho uoc tinh: 18.95 KB
+
+[MA TRAN KE]
+  Ket qua: 188.00
+  Thoi gian: 7.48 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 188.00
+  Thoi gian: 74.68 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 188.00
+  Thoi gian: 398.21 ms
+  Bo nho uoc tinh: 1268.95 KB
+
+
+Nhap so dinh: 400
+Do thi thua (1) hay day (2)? 2
+
+====== LAN CHAY 1 ======
+- So dinh: 400, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 19.00
+  Thoi gian: 7.21 ms
+  Bo nho uoc tinh: 354.69 KB
+
+[MA TRAN KE]
+  Ket qua: 19.00
+  Thoi gian: 19.32 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 19.00
+  Thoi gian: 304.03 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 19.00
+  Thoi gian: 294.97 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+====== LAN CHAY 2 ======
+- So dinh: 400, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 19.00
+  Thoi gian: 256.89 ms
+  Bo nho uoc tinh: 354.69 KB
+
+[MA TRAN KE]
+  Ket qua: 19.00
+  Thoi gian: 55.33 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 19.00
+  Thoi gian: 3.54 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 19.00
+  Thoi gian: 6.02 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+====== LAN CHAY 3 ======
+- So dinh: 400, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 19.00
+  Thoi gian: 105.07 ms
+  Bo nho uoc tinh: 354.69 KB
+
+[MA TRAN KE]
+  Ket qua: 19.00
+  Thoi gian: 269.97 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 19.00
+  Thoi gian: 268.32 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 19.00
+  Thoi gian: 183.43 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+====== LAN CHAY 4 ======
+- So dinh: 400, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 19.00
+  Thoi gian: 355.48 ms
+  Bo nho uoc tinh: 354.69 KB
+
+[MA TRAN KE]
+  Ket qua: 19.00
+  Thoi gian: 130.24 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 19.00
+  Thoi gian: 3.59 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 19.00
+  Thoi gian: 7.26 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+====== LAN CHAY 5 ======
+- So dinh: 400, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 19.00
+  Thoi gian: 301.07 ms
+  Bo nho uoc tinh: 354.69 KB
+
+[MA TRAN KE]
+  Ket qua: 19.00
+  Thoi gian: 57.56 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 19.00
+  Thoi gian: 205.78 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 19.00
+  Thoi gian: 633.66 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+====== LAN CHAY 6 ======
+- So dinh: 400, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 19.00
+  Thoi gian: 520.08 ms
+  Bo nho uoc tinh: 354.69 KB
+
+[MA TRAN KE]
+  Ket qua: 19.00
+  Thoi gian: 22.91 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 19.00
+  Thoi gian: 9.21 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 19.00
+  Thoi gian: 7.22 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+====== LAN CHAY 7 ======
+- So dinh: 400, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 19.00
+  Thoi gian: 402.53 ms
+  Bo nho uoc tinh: 354.69 KB
+
+[MA TRAN KE]
+  Ket qua: 19.00
+  Thoi gian: 318.22 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 19.00
+  Thoi gian: 304.03 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 19.00
+  Thoi gian: 1063.12 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+====== LAN CHAY 8 ======
+- So dinh: 400, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 19.00
+  Thoi gian: 638.07 ms
+  Bo nho uoc tinh: 354.69 KB
+
+[MA TRAN KE]
+  Ket qua: 19.00
+  Thoi gian: 15.70 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 19.00
+  Thoi gian: 5.70 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 19.00
+  Thoi gian: 6.06 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+====== LAN CHAY 9 ======
+- So dinh: 400, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 19.00
+  Thoi gian: 3631.48 ms
+  Bo nho uoc tinh: 354.69 KB
+
+[MA TRAN KE]
+  Ket qua: 19.00
+  Thoi gian: 331.16 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 19.00
+  Thoi gian: 78.69 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 19.00
+  Thoi gian: 73.73 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+====== LAN CHAY 10 ======
+- So dinh: 400, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 19.00
+  Thoi gian: 346.45 ms
+  Bo nho uoc tinh: 354.69 KB
+
+[MA TRAN KE]
+  Ket qua: 19.00
+  Thoi gian: 109.06 ms
+  Bo nho uoc tinh: 1250.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 19.00
+  Thoi gian: 7.92 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 19.00
+  Thoi gian: 260.35 ms
+  Bo nho uoc tinh: 1604.69 KB
+
+Nhap so dinh: 1500
+Do thi thua (1) hay day (2)? 1
+
+====== LAN CHAY 1 ======
+- So dinh: 1500, So canh: 1505
+
+[DANH SACH KE]
+  Ket qua: 164.00
+  Thoi gian: 4.58 ms
+  Bo nho uoc tinh: 70.51 KB
+
+[MA TRAN KE]
+  Ket qua: 164.00
+  Thoi gian: 20.00 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 164.00
+  Thoi gian: 283.39 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 164.00
+  Thoi gian: 314.99 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+====== LAN CHAY 2 ======
+- So dinh: 1500, So canh: 1505
+
+[DANH SACH KE]
+  Ket qua: 164.00
+  Thoi gian: 45.21 ms
+  Bo nho uoc tinh: 70.51 KB
+
+[MA TRAN KE]
+  Ket qua: 164.00
+  Thoi gian: 22.72 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 164.00
+  Thoi gian: 58.04 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 164.00
+  Thoi gian: 210.37 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+====== LAN CHAY 3 ======
+- So dinh: 1500, So canh: 1505
+
+[DANH SACH KE]
+  Ket qua: 164.00
+  Thoi gian: 161.40 ms
+  Bo nho uoc tinh: 70.51 KB
+
+[MA TRAN KE]
+  Ket qua: 164.00
+  Thoi gian: 35.67 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 164.00
+  Thoi gian: 90.36 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 164.00
+  Thoi gian: 247.57 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+====== LAN CHAY 4 ======
+- So dinh: 1500, So canh: 1505
+
+[DANH SACH KE]
+  Ket qua: 164.00
+  Thoi gian: 132.11 ms
+  Bo nho uoc tinh: 70.51 KB
+
+[MA TRAN KE]
+  Ket qua: 164.00
+  Thoi gian: 128.65 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 164.00
+  Thoi gian: 287.82 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 164.00
+  Thoi gian: 6.78 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+====== LAN CHAY 5 ======
+- So dinh: 1500, So canh: 1505
+
+[DANH SACH KE]
+  Ket qua: 164.00
+  Thoi gian: 315.33 ms
+  Bo nho uoc tinh: 70.51 KB
+
+[MA TRAN KE]
+  Ket qua: 164.00
+  Thoi gian: 39.18 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 164.00
+  Thoi gian: 77.45 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 164.00
+  Thoi gian: 350.60 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+====== LAN CHAY 6 ======
+- So dinh: 1500, So canh: 1505
+
+[DANH SACH KE]
+  Ket qua: 164.00
+  Thoi gian: 47.97 ms
+  Bo nho uoc tinh: 70.51 KB
+
+[MA TRAN KE]
+  Ket qua: 164.00
+  Thoi gian: 68.79 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 164.00
+  Thoi gian: 187.15 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 164.00
+  Thoi gian: 5.08 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+====== LAN CHAY 7 ======
+- So dinh: 1500, So canh: 1505
+
+[DANH SACH KE]
+  Ket qua: 164.00
+  Thoi gian: 301.28 ms
+  Bo nho uoc tinh: 70.51 KB
+
+[MA TRAN KE]
+  Ket qua: 164.00
+  Thoi gian: 35.92 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 164.00
+  Thoi gian: 71.13 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 164.00
+  Thoi gian: 340.79 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+====== LAN CHAY 8 ======
+- So dinh: 1500, So canh: 1505
+
+[DANH SACH KE]
+  Ket qua: 164.00
+  Thoi gian: 72.60 ms
+  Bo nho uoc tinh: 70.51 KB
+
+[MA TRAN KE]
+  Ket qua: 164.00
+  Thoi gian: 102.27 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 164.00
+  Thoi gian: 82.96 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 164.00
+  Thoi gian: 76.33 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+====== LAN CHAY 9 ======
+- So dinh: 1500, So canh: 1505
+
+[DANH SACH KE]
+  Ket qua: 164.00
+  Thoi gian: 44.28 ms
+  Bo nho uoc tinh: 70.51 KB
+
+[MA TRAN KE]
+  Ket qua: 164.00
+  Thoi gian: 24.83 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 164.00
+  Thoi gian: 49.85 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 164.00
+  Thoi gian: 226.78 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+====== LAN CHAY 10 ======
+- So dinh: 1500, So canh: 1505
+
+[DANH SACH KE]
+  Ket qua: 164.00
+  Thoi gian: 125.31 ms
+  Bo nho uoc tinh: 70.51 KB
+
+[MA TRAN KE]
+  Ket qua: 164.00
+  Thoi gian: 260.71 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 164.00
+  Thoi gian: 225.26 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 164.00
+  Thoi gian: 6.10 ms
+  Bo nho uoc tinh: 17648.63 KB
+
+
+Nhap so dinh: 1500
+Do thi thua (1) hay day (2)? 2
+
+====== LAN CHAY 1 ======
+- So dinh: 1500, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 49.00
+  Thoi gian: 9.90 ms
+  Bo nho uoc tinh: 363.28 KB
+
+[MA TRAN KE]
+  Ket qua: 49.00
+  Thoi gian: 88.86 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 49.00
+  Thoi gian: 306.07 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 49.00
+  Thoi gian: 283.98 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+====== LAN CHAY 2 ======
+- So dinh: 1500, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 49.00
+  Thoi gian: 72.57 ms
+  Bo nho uoc tinh: 363.28 KB
+
+[MA TRAN KE]
+  Ket qua: 49.00
+  Thoi gian: 69.60 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 49.00
+  Thoi gian: 67.53 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 49.00
+  Thoi gian: 287.21 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+====== LAN CHAY 3 ======
+- So dinh: 1500, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 49.00
+  Thoi gian: 80.51 ms
+  Bo nho uoc tinh: 363.28 KB
+
+[MA TRAN KE]
+  Ket qua: 49.00
+  Thoi gian: 69.17 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 49.00
+  Thoi gian: 70.85 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 49.00
+  Thoi gian: 280.05 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+====== LAN CHAY 4 ======
+- So dinh: 1500, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 49.00
+  Thoi gian: 105.17 ms
+  Bo nho uoc tinh: 363.28 KB
+
+[MA TRAN KE]
+  Ket qua: 49.00
+  Thoi gian: 45.62 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 49.00
+  Thoi gian: 67.73 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 49.00
+  Thoi gian: 236.04 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+====== LAN CHAY 5 ======
+- So dinh: 1500, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 49.00
+  Thoi gian: 46.04 ms
+  Bo nho uoc tinh: 363.28 KB
+
+[MA TRAN KE]
+  Ket qua: 49.00
+  Thoi gian: 47.29 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 49.00
+  Thoi gian: 67.43 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 49.00
+  Thoi gian: 214.65 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+====== LAN CHAY 6 ======
+- So dinh: 1500, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 49.00
+  Thoi gian: 139.19 ms
+  Bo nho uoc tinh: 363.28 KB
+
+[MA TRAN KE]
+  Ket qua: 49.00
+  Thoi gian: 83.96 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 49.00
+  Thoi gian: 52.91 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 49.00
+  Thoi gian: 291.01 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+====== LAN CHAY 7 ======
+- So dinh: 1500, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 49.00
+  Thoi gian: 131.89 ms
+  Bo nho uoc tinh: 363.28 KB
+
+[MA TRAN KE]
+  Ket qua: 49.00
+  Thoi gian: 81.39 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 49.00
+  Thoi gian: 77.30 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 49.00
+  Thoi gian: 306.47 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+====== LAN CHAY 8 ======
+- So dinh: 1500, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 49.00
+  Thoi gian: 105.51 ms
+  Bo nho uoc tinh: 363.28 KB
+
+[MA TRAN KE]
+  Ket qua: 49.00
+  Thoi gian: 73.30 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 49.00
+  Thoi gian: 107.59 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 49.00
+  Thoi gian: 314.63 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+====== LAN CHAY 9 ======
+- So dinh: 1500, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 49.00
+  Thoi gian: 88.64 ms
+  Bo nho uoc tinh: 363.28 KB
+
+[MA TRAN KE]
+  Ket qua: 49.00
+  Thoi gian: 81.93 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 49.00
+  Thoi gian: 81.71 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 49.00
+  Thoi gian: 317.95 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+====== LAN CHAY 10 ======
+- So dinh: 1500, So canh: 9000
+
+[DANH SACH KE]
+  Ket qua: 49.00
+  Thoi gian: 73.33 ms
+  Bo nho uoc tinh: 363.28 KB
+
+[MA TRAN KE]
+  Ket qua: 49.00
+  Thoi gian: 70.81 ms
+  Bo nho uoc tinh: 17578.12 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 49.00
+  Thoi gian: 79.66 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 49.00
+  Thoi gian: 284.69 ms
+  Bo nho uoc tinh: 17941.41 KB
+
+Nhap so dinh: 4000
+Do thi thua (1) hay day (2)? 1
+
+====== LAN CHAY 1 ======
+- So dinh: 4000, So canh: 4005
+
+[DANH SACH KE]
+  Ket qua: 231.00
+  Thoi gian: 8.65 ms
+  Bo nho uoc tinh: 187.70 KB
+
+[MA TRAN KE]
+  Ket qua: 231.00
+  Thoi gian: 187.49 ms
+  Bo nho uoc tinh: 125000.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 231.00
+  Thoi gian: 10.13 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 231.00
+  Thoi gian: 308.06 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+====== LAN CHAY 2 ======
+- So dinh: 4000, So canh: 4005
+
+[DANH SACH KE]
+  Ket qua: 231.00
+  Thoi gian: 54.58 ms
+  Bo nho uoc tinh: 187.70 KB
+
+[MA TRAN KE]
+  Ket qua: 231.00
+  Thoi gian: 154.19 ms
+  Bo nho uoc tinh: 125000.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 231.00
+  Thoi gian: 3222.89 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 231.00
+  Thoi gian: 177.54 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+====== LAN CHAY 3 ======
+- So dinh: 4000, So canh: 4005
+
+[DANH SACH KE]
+  Ket qua: 231.00
+  Thoi gian: 96.77 ms
+  Bo nho uoc tinh: 187.70 KB
+
+[MA TRAN KE]
+  Ket qua: 231.00
+  Thoi gian: 766.65 ms
+  Bo nho uoc tinh: 125000.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 231.00
+  Thoi gian: 328.79 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 231.00
+  Thoi gian: 8.53 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+====== LAN CHAY 4 ======
+- So dinh: 4000, So canh: 4005
+
+[DANH SACH KE]
+  Ket qua: 231.00
+  Thoi gian: 314.78 ms
+  Bo nho uoc tinh: 187.70 KB
+
+[MA TRAN KE]
+  Ket qua: 231.00
+  Thoi gian: 266.97 ms
+  Bo nho uoc tinh: 125000.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 231.00
+  Thoi gian: 3692.41 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 231.00
+  Thoi gian: 12.68 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+====== LAN CHAY 5 ======
+- So dinh: 4000, So canh: 4005
+
+[DANH SACH KE]
+  Ket qua: 231.00
+  Thoi gian: 72.29 ms
+  Bo nho uoc tinh: 187.70 KB
+
+[MA TRAN KE]
+  Ket qua: 231.00
+  Thoi gian: 265.86 ms
+  Bo nho uoc tinh: 125000.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 231.00
+  Thoi gian: 3833.42 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 231.00
+  Thoi gian: 11.32 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+====== LAN CHAY 6 ======
+- So dinh: 4000, So canh: 4005
+
+[DANH SACH KE]
+  Ket qua: 231.00
+  Thoi gian: 295.03 ms
+  Bo nho uoc tinh: 187.70 KB
+
+[MA TRAN KE]
+  Ket qua: 231.00
+  Thoi gian: 204.74 ms
+  Bo nho uoc tinh: 125000.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 231.00
+  Thoi gian: 3368.76 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 231.00
+  Thoi gian: 337.02 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+====== LAN CHAY 7 ======
+- So dinh: 4000, So canh: 4005
+
+[DANH SACH KE]
+  Ket qua: 231.00
+  Thoi gian: 317.30 ms
+  Bo nho uoc tinh: 187.70 KB
+
+[MA TRAN KE]
+  Ket qua: 231.00
+  Thoi gian: 216.04 ms
+  Bo nho uoc tinh: 125000.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 231.00
+  Thoi gian: 3632.80 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 231.00
+  Thoi gian: 13.44 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+====== LAN CHAY 8 ======
+- So dinh: 4000, So canh: 4005
+
+[DANH SACH KE]
+  Ket qua: 231.00
+  Thoi gian: 322.40 ms
+  Bo nho uoc tinh: 187.70 KB
+
+[MA TRAN KE]
+  Ket qua: 231.00
+  Thoi gian: 302.66 ms
+  Bo nho uoc tinh: 125000.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 231.00
+  Thoi gian: 3338.63 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 231.00
+  Thoi gian: 295.18 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+====== LAN CHAY 9 ======
+- So dinh: 4000, So canh: 4005
+
+[DANH SACH KE]
+  Ket qua: 231.00
+  Thoi gian: 307.94 ms
+  Bo nho uoc tinh: 187.70 KB
+
+[MA TRAN KE]
+  Ket qua: 231.00
+  Thoi gian: 207.04 ms
+  Bo nho uoc tinh: 125000.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 231.00
+  Thoi gian: 3686.24 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 231.00
+  Thoi gian: 12.42 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+====== LAN CHAY 10 ======
+- So dinh: 4000, So canh: 4005
+
+[DANH SACH KE]
+  Ket qua: 231.00
+  Thoi gian: 314.44 ms
+  Bo nho uoc tinh: 187.70 KB
+
+[MA TRAN KE]
+  Ket qua: 231.00
+  Thoi gian: 237.34 ms
+  Bo nho uoc tinh: 125000.00 KB
+
+[MA TRAN + DANH SACH]
+  Ket qua: 231.00
+  Thoi gian: 3492.68 ms
+  Bo nho uoc tinh: 125187.70 KB
+
+[DANH SACH + MA TRAN]
+  Ket qua: 231.00
+  Thoi gian: 315.88 ms
+  Bo nho uoc tinh: 125187.70 KB
